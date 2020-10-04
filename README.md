@@ -23,9 +23,10 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-569577.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png" />
 <img align="left" alt="SQL Server" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/sql-4-190807.png" />
+<img align="left" alt="postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-226047.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/github-35-226093.png" />
-<img align="left" alt="postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/postgresql-226047.png" />
+
 
 
 
