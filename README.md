@@ -19,9 +19,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/javascript-2038874-1720087.png" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/typescript-1-1175078.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
-
-
 <img align="left" alt="NestJS" width="26px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-569577.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-1868941-1583105.png" />
