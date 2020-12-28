@@ -3,7 +3,7 @@
 ### Here is what I am working on! 
 
 - 🔭 I’m working on The Travel Boss Ph as a side project
-- 🌱 I’m currently learning Docker, Kubernetes, Microservices
+- 🌱 I’m currently learning Docker, Kubernetes, GraphQL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with The Travel Boss Ph
 - 💬 Ask me about anything
